@@ -8,7 +8,7 @@
 ## 🎯 Career Objective  
 I am looking for a challenging role as an Embedded Developer where I can use my skills in programming, embedded systems, and IoT to create innovative solutions. I aspire to work on exciting projects, improve my abilities in embedded development, and grow professionally while solving real-world problems in electronics and technology.
 
---
+---
 ### Programming Languages  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -20,7 +20,8 @@ I am looking for a challenging role as an Embedded Developer where I can use my 
 ![Multisim](https://img.shields.io/badge/-Multisim-0078D7)
 
 ### Hardware Skills  
-- SMD Soldering  
+- Embedded developer       
+- SMD   
 - PCB Designing  
 ----
 
@@ -58,8 +59,10 @@ I am looking for a challenging role as an Embedded Developer where I can use my 
 ---
 
 ## 🏆 Achievements  
+- Secured ** First Runner up Position** at Empower 2023, IITM. 
 - Developed and deployed a **Water Level Monitoring System** with Mindnics Private Limited.  
-- Won **First Prize** at Robo Games 2018, Delhi.  
+- Won **First Prize** at Robo Games 2018, Delhi.
+
 
 ---
 
