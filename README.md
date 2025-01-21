@@ -47,7 +47,7 @@ I am looking for a challenging role as an Embedded Developer where I can use my 
 - Won **First Prize** at Robo Games 2018, Avishkaar Challenge, Delhi.
 
 ### 5. **Smart Helmet**  
-![Project](<image-link>)  
+![Project](https://headfox.in/cdn/shop/files/2_16_9a117a92-300a-4b6e-b4ec-a4d6428bc698.png?v=1727954310)  
 - Built a helmet that enforces wearing and detects alcohol consumption.  
 - Presented at **Maker Faire, Hyderabad, 2018**.  
 
