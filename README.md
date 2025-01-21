@@ -22,7 +22,7 @@ I am looking for a challenging role as an Embedded Developer where I can use my 
 ### Hardware Skills  
 - SMD Soldering  
 - PCB Designing  
----
+----
 
 ## 🛠️ Projects  
 
