@@ -28,28 +28,40 @@ I am looking for a challenging role as an Embedded Developer where I can use my 
 ## 🛠️ Projects  
 
 ### 1. **NanoJacquard**  
-![Project](<image-link>)  
-- Developed firmware for the Nano Jacquard machine, transforming a mechanical Jacquard into an electronic one.  
-- MSME 1.0 project, currently in prototyping stage, incubated at KSRCT.
+🎛️ Developed firmware for the Nano Jacquard machine, transforming a mechanical Jacquard into an electronic one.  
+📍 **Status:** Prototyping stage under MSME 1.0, incubated at KSRCT.
+
+---
 
 ### 2. **Safetech Pen**  
-![Project](<image-link>)  
-- Developed a pen with features like live location sharing, live streaming, and emergency notifications.  
+✒️ A pen equipped with features like:  
+   - 📍 Live location sharing  
+   - 📹 Live streaming  
+   - 🚨 Emergency notifications  
+📌 Successfully developed and tested under MSME 1.0.
+
+---
 
 ### 3. **Interactive Tactile Book**  
-![Project](<image-link>)  
-- Enhanced Braille learning with gamified and audio instruction features.  
-- Won ₹25,000 at EMPOWER 2023, IIT Madras.  
+📘 Enhanced Braille learning with:  
+   - 🎮 Gamified learning  
+   - 🔊 Audio instruction  
+🏆 **Achievement:** Won ₹25,000 at EMPOWER 2023, IIT Madras.
+
+---
 
 ### 4. **Archery Robot**  
-![Project](<image-link>)  
-- Developed a manual-controlled archery robot.  
-- Won **First Prize** at Robo Games 2018, Avishkaar Challenge, Delhi.
+🏹 Developed a manual-controlled robot for precision archery.  
+🏆 **Achievement:** Won **First Prize** at Robo Games 2018, Avishkaar Challenge, Delhi.
+
+---
 
 ### 5. **Smart Helmet**  
-![Project](https://headfox.in/cdn/shop/files/2_16_9a117a92-300a-4b6e-b4ec-a4d6428bc698.png?v=1727954310)  
-- Built a helmet that enforces wearing and detects alcohol consumption.  
-- Presented at **Maker Faire, Hyderabad, 2018**.  
+⛑️ Features:  
+   - 🍺 Alcohol detection  
+   - 🚫 Enforces helmet use  
+🛠️ Presented the prototype at **Maker Faire, Hyderabad, 2018**.
+  
 
 ---
 
