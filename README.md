@@ -78,14 +78,6 @@ I am looking for a challenging role as an Embedded Developer where I can use my 
 
 ---
 
-### 📊 GitHub Stats  
-![Pravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-
-### 🚀 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
-
----
-
 **📌 Fun Fact:**  
 "Embedded systems are not just circuits; they’re my playground for innovation!"
 
