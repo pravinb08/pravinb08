@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Pravin B! 
-![Location](https://upload.wikimedia.org/wikipedia/commons/e/ec/Location_dot_blue.svg) **Namakkal, Tamil Nadu**  
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg)](mailto:praveenbalu515@gmail.com) **[praveenbalu515@gmail.com](mailto:praveenbalu515@gmail.com)**  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/pravin-b-b21183274/) **[LinkedIn Profile](https://www.linkedin.com/in/pravin-b-b21183274/)**  
-
+# 👋 Hi, I'm Pravin B!  
+**📍 Namakkal, Tamil Nadu**  
+**📧 [praveenbalu515@gmail.com](mailto:praveenbalu515@gmail.com)**  
+**🔗 [LinkedIn](https://www.linkedin.com/in/pravin-b-b21183274/)**  
 
 ---
 
