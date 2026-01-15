@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pravin B! 🌻💫   
-**📍 Namakkal, Tamil Nadu**  
+**📍 Circuit & Firmware dev**  
 **📧 [praveenbalu515@gmail.com](mailto:praveenbalu515@gmail.com)**  
 **🔗 [LinkedIn](https://www.linkedin.com/in/pravin-b-b21183274/)**  
 
