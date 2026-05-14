@@ -61,13 +61,7 @@ I am looking for a challenging role as an Embedded Developer where I can use my 
    - 🍺 Alcohol detection  
    - 🚫 Enforces helmet use  
 🛠️ Presented the prototype at **Maker Faire, Hyderabad, 2018**.
-  
-
----
-
-- **Memberships**  
-  - Member of **ASME**  
-
+    
 ---
 
 ## 🏆 Achievements  
@@ -76,8 +70,4 @@ I am looking for a challenging role as an Embedded Developer where I can use my 
 - Won **First Prize** at Robo Games 2018, Delhi.
 
 
----
-
-**📌 Fun Fact:**  
-"Embedded systems are not just circuits; they’re my playground for innovation!"
-
+--- 
